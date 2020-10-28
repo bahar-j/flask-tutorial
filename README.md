@@ -1,1 +1,1 @@
-<h3>basic CRUD with flask</h3>
+<h3>Basic CRUD with Flask</h3>
